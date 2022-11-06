@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+      {{title}}
+    </title>
+    {% if description %}
+      <meta name="description" content="{{description}}"/>
+    {% endif %}
+    {% block head %}{% endblock %}
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
+    {% if prism == true %}
+      <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
+    {% endif %}
+  </head>
+  <body>
+    {% include "./partials/navbar.html" %}
+
+    <div class="-z-10 w-full relative" style="height: 800px">
+      <div class="main-carousel">
+        <div class="carousel-cell">
+          <img src="https://datafile4.arkadia.com/pictures/properties/fullsize/8-8753071-1559592466900928550.jpg" alt="cat nose" />
+        </div>
+        <div class="carousel-cell">
+          <img src="https://datafile4.arkadia.com/pictures/properties/fullsize/7-7560873-1980925921183261500.jpg" alt="cat nose" />
+        </div>
+        <div class="carousel-cell">
+          <img src="https://datafile4.arkadia.com/pictures/properties/fullsize/6-7322438-46014536029563751.jpg" alt="cat nose" />
+        </div>
+      </div>
+      <div class="absolute bottom-36 text-center w-1/2 bg-white/75 p-8 rounded-r-lg shadow">
+        <h1>
+          Welcome to
+          <strong class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
+            {{title}}
+          </strong>
+        </h1>
+
+        <p>
+          A perfect place to stay or build businesses, right here in Bali!
+        </p>
+      </div>
+    </div>
+
+    <div class="container mx-auto flex flex-col justify-center items-center bg-white rounded-lg px-8 z-20 pb-36">
+      <h3>Check out our carefully selected projects!</h3>
+
+      {{ content | safe }}
+    </div>
+
+    {% include "./partials/footer.html" %}
+
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
+    <script type="text/javascript">
+      var elem = document.querySelector('.main-carousel');
+      // element argument can be a selector string
+      //   for an individual element
+      var flkty = new Flickity(elem, {
+        pageDots: false,
+        cellAlign: 'left',
+        contain: true,
+        autoPlay: true,
+        prevNextButtons: false
+      });
+    </script>
+
+    <script src="/static/js/alpine.js"></script>
+
+    {% if path == "home" %}
+      <!-- Netlify Identity Widget -->
+      <!-- Needed only if you are using Netlify Identity feature -->
+      <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    {% endif %}
+
+  </body>
+</html>
