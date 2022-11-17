@@ -11,6 +11,8 @@
       <meta name="description" content="{{description}}"/>
     {% endif %}
     {% block head %}{% endblock %}
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/flickity-fullscreen@2/fullscreen.css">
     <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
     {% if prism == true %}
       <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
@@ -22,6 +24,24 @@
     {{ content | safe }}
 
     {% include "./partials/footer.html" %}
+
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-6368fb98a3a7e5d1"></script>
+
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <script src="https://unpkg.com/flickity-fullscreen@2/fullscreen.js"></script>
+    <script type="text/javascript">
+      var elem = document.querySelector('.main-carousel');
+      // element argument can be a selector string
+      //   for an individual element
+      var flkty = new Flickity(elem, {
+        pageDots: false,
+        cellAlign: 'left',
+        contain: true,
+        autoPlay: true,
+        prevNextButtons: false,
+        fullscreen: true
+      });
+    </script>
 
     <script src="/static/js/alpine.js"></script>
 

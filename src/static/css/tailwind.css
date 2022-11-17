@@ -18,3 +18,42 @@ body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
   @apply bg-gray-800;
 }
+
+article ul li {
+  list-style: disc;
+}
+
+
+.fluid-iframe { 
+  position: relative; 
+  padding-bottom: 56.25%; 
+  padding-top: 30px; 
+  height: 0; 
+  overflow: hidden; 
+}
+.fluid-iframe > iframe { 
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  height: 100%; 
+}
+
+@media (min-width: 640px) {
+  .detail .carousel-cell {
+    height:250px;
+  }
+  .detail .carousel-cell img {
+    height:250px;
+  }
+}
+
+
+@media (min-width: 1280px) {
+  .detail .carousel-cell {
+    height:400px;
+  }
+  .detail .carousel-cell img {
+    height:400px;
+  }
+}

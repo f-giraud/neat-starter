@@ -9,7 +9,7 @@ path: home
   {% set postslist = collections.post %}
 
   {% for post in postslist | reverse %}
-    <article class="shadow-xl border-l border-b border-r">
+    <article class="shadow-xl border-l border-b border-r my-4">
       <img src="https://datafile4.arkadia.com/pictures/properties/fullsize/6-7322438-46014536029563751.jpg" class="w-full rounded-t">
       <div class="p-4 rounded-b">
         <h2 class="font-bold text-3xl text-gray-900 mb-2">
@@ -36,7 +36,7 @@ path: home
         {% endif %}
 
         <p>
-            <a href="{{ post.url | url }}" class="text-indigo-500 font-bold text-lg">
+            <a href="{{ post.url | url }}" class="text-blue-500 font-bold text-lg">
                 Read more →
             </a>
         </p>

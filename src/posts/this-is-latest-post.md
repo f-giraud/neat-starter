@@ -7,7 +7,11 @@ description: With its glorious natural scenery, warm climate, welcoming culture
   world.
 author: Fabrice Giraud
 date: 2020-09-23T15:13:13.021Z
-tags: second-tag
+maps: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d126223.79837010014!2d115.1398152090945!3d-8.644505515990442!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd2388fc2de0a0b%3A0xdac0d412e07ae170!2sDalung%2C%20Kuta%20Utara%2C%20Badung%20Regency%2C%20Bali%2C%20Indonesia!5e0!3m2!1sen!2sus!4v1667915701558!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+image_1_url: https://datafile4.arkadia.com/pictures/properties/fullsize/8-8753071-1559592466900928550.jpg
+image_2_url: https://datafile4.arkadia.com/pictures/properties/fullsize/7-7560873-1980925921183261500.jpg
+image_3_url: https://datafile4.arkadia.com/pictures/properties/fullsize/6-7322438-46014536029563751.jpg
+image_4_url: https://datafile4.arkadia.com/pictures/properties/w1024h1024/9-8391360-153211486003862247.jpg
 ---
 
 

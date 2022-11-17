@@ -1,10 +1,14 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
-    url: "/blog"
+  - text: About
+    url: "#about-us"
+    cta: false
+  - text: Contact Us
+    url: "#contact-us"
+    cta: false
+  - text: Our Properties
+    url: "/properties"
+    cta: false
+  - text: Chat with Us
+    url: "https://api.whatsapp.com/send?phone=628xxxxxxxxx&text=Hello"
+    cta: true
