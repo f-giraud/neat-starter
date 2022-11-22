@@ -14,7 +14,7 @@ local_backend: true
 collections:
   - label: "Properties"
     name: "property"
-    folder: "src/posts"
+    folder: "src/property"
     create: true
     editor:
       preview: false
@@ -32,6 +32,12 @@ collections:
       - { label: "Image 6 URL", name: "image_6_url", widget: "string", required: false }
       - { label: "Image 7 URL", name: "image_7_url", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
+      - widget: select
+        label: "tags"
+        name: "tags"
+        multiple: true
+        create: true
+        options: ["property"]
   - label: "Settings"
     name: "settings"
     editor:
