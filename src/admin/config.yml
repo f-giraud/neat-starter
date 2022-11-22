@@ -21,16 +21,16 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Author", name: "author", widget: "string", required: false }
+      - { label: "Publish Date", name: "date", widget: "datetime", required: false }
       - { label: "Map Iframe", name: "maps", widget: "string" }
       - { label: "Image 1 URL", name: "image_1_url", widget: "string" }
       - { label: "Image 2 URL", name: "image_2_url", widget: "string" }
       - { label: "Image 3 URL", name: "image_3_url", widget: "string" }
       - { label: "Image 4 URL", name: "image_4_url", widget: "string" }
-      - { label: "Image 5 URL", name: "image_5_url", widget: "string" }
-      - { label: "Image 6 URL", name: "image_6_url", widget: "string" }
-      - { label: "Image 7 URL", name: "image_7_url", widget: "string" }
+      - { label: "Image 5 URL", name: "image_5_url", widget: "string", required: false }
+      - { label: "Image 6 URL", name: "image_6_url", widget: "string", required: false }
+      - { label: "Image 7 URL", name: "image_7_url", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Settings"
     name: "settings"
