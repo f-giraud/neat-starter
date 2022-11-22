@@ -74,8 +74,10 @@
       var ele2 = document.getElementById('phone-code-footer');
       for (var i = 0; i < data.length; i++) {
         // populate select element with json
+        {% if path != "home" %}
         ele.innerHTML = ele.innerHTML +
             '<option value="+' + data[i]['code'] + '">' + data[i]['country'] + ' (+' + data[i]['code'] + ')</option>';
+        {% endif %}
         ele2.innerHTML = ele2.innerHTML +
             '<option value="+' + data[i]['code'] + '">' + data[i]['country'] + ' (+' + data[i]['code'] + ')</option>';
       }

@@ -53,6 +53,13 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
+  // Filter source file names using a glob
+  eleventyConfig.addCollection("property", function(collectionApi) {
+    console.log(collectionApi.getFilteredByGlob("property/*.md"))
+    // return collectionApi.getFilteredByGlob("property/*.md");
+    return collectionApi.getFilteredByTag("property");
+  });
+
   // Let Eleventy transform HTML files as nunjucks
   // So that we can use .html instead of .njk
   return {

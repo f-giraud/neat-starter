@@ -12,6 +12,7 @@ image_1_url: https://datafile4.arkadia.com/pictures/properties/fullsize/8-875307
 image_2_url: https://datafile4.arkadia.com/pictures/properties/fullsize/7-7560873-1980925921183261500.jpg
 image_3_url: https://datafile4.arkadia.com/pictures/properties/fullsize/6-7322438-46014536029563751.jpg
 image_4_url: https://datafile4.arkadia.com/pictures/properties/w1024h1024/9-8391360-153211486003862247.jpg
+tags: property
 ---
 
 
