@@ -59,12 +59,12 @@
                             <label class="my-2 font-bold"><small>Your Name</small></label>
                             <input class="py-1 px-2 rounded border border-blue-200 text-black" placeholder="Your name" type="text" name="name">
                         </div>
+                        <div class="my-2 flex flex-col">
+                            <label class="my-2 font-bold"><small>Your Email</small></label>
+                            <input class="py-1 px-2 rounded border border-blue-200 text-black" placeholder="Your email" type="email" name="email">
+                        </div>
                     </div>
                     <div class="w-full lg:w-1/2 lg:ml-2">
-                        <div class="my-2 flex flex-col">
-                            <label class="font-bold"><small>Message</small></label>
-                            <textarea name="message" class="py-1 px-2 rounded text-black border border-blue-200">Hi, I'm interested in this property {{ title }}</textarea>
-                        </div>
                         <div class="flex my-2">
                             <div class="flex flex-col w-1/2" style="margin-right:2px">
                                 <label class="font-bold"><small>Country Code</small></label>
@@ -75,6 +75,11 @@
                                 <input class="py-1 px-2 rounded text-black border border-blue-200" placeholder="Your phone number" type="text" name="phone">
                             </div>
                         </div>
+                        <div class="my-2 flex flex-col">
+                            <label class="font-bold"><small>Message</small></label>
+                            <textarea name="message" class="py-1 px-2 rounded text-black border border-blue-200">Hi, I'm interested in this property {{ title }}</textarea>
+                        </div>
+                        <div data-netlify-recaptcha="true"></div>
                     </div>
                 </div>
                 <button type="submit" class="my-2 w-full lg:w-1/4 py-1 px-2 rounded bg-indigo-600 text-white border border-indigo-600 hover:text-indigo-600 hover:bg-white">Submit</button>
