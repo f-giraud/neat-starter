@@ -61,6 +61,8 @@ collections:
         fields:
           - { label: "Site Name", name: site_name, widget: string }
           - { label: "Slogan", name: slogan, widget: string }
+          - { label: "Office Address", name: address, widget: string }
+          - { label: "Office Phone", name: phone, widget: string }
           - { label: "Author", name: author, widget: string }
           - { label: "Instagram URL", name: instagram_url, widget: string }
           - { label: "Facebook URL", name: facebook_url, widget: string }
