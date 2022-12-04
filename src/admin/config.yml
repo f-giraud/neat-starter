@@ -71,8 +71,9 @@ collections:
         name: "settings"
         file: "src/_data/settings.yaml"
         fields:
-          - { label: Name, name: name, widget: string }
-          - { label: Author, name: author, widget: string }
-          - { label: Instagram URL, name: instagram_url, widget: string }
-          - { label: Facebook URL, name: facebook_url, widget: string }
-          - { label: Main Website URL, name: main_website_url, widget: string }
+          - { label: "Site Name", name: site_name, widget: string }
+          - { label: "Author", name: author, widget: string }
+          - { label: "Instagram URL", name: instagram_url, widget: string }
+          - { label: "Facebook URL", name: facebook_url, widget: string }
+          - { label: "Main Website URL", name: main_website_url, widget: string }
+          - { label: "About Text", name: "about_text", widget: "markdown" }
