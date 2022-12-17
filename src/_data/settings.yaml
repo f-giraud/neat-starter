@@ -1,16 +1,18 @@
----
-site_name: "Landing Page"
-slogan: "Get a nice property investment in Bali"
-address: "Jalan Pantai Berawa 77x"
-phone: "+62xxxxxxxxx"
-author: "Fabrice Giraud"
-facebook_url: "#"
+site_name: Landing Page
+slogan: Get a nice property investment in Bali
+address: Jalan Pantai Berawa 77x
+phone: +62xxxxxxxxx
+author: Fabrice Giraud
 instagram_url: "#"
-main_website_url: "#"
+facebook_url: "#"
+main_website_url: https://ilotinvest.com/
 google_analytics_tracking_id: "#"
-about_text: "
-  We are a real estate agency in Bali, Indonesia.
-  <br>
-  Our goal is to provide reliable and objective global real estate market information for buyers and sellers. The site also provides market trends and neighborhood data. Besides, you can always ask for advice or opinions of real estate experts on our forum to make informed real estate decisions.
-  <br>
-  Great care has been taken to ensure accuracy of all information on our list, however we urge a potential buyer to double check all details with the owner of a particular property before any financial, travel or any other real estate related decision is undertaken."
+about_text: " We are a real estate agency in Bali, Indonesia. <br> Our goal is
+  to provide reliable and objective global real estate market information for
+  buyers and sellers. The site also provides market trends and neighborhood
+  data. Besides, you can always ask for advice or opinions of real estate
+  experts on our forum to make informed real estate decisions. <br> Great care
+  has been taken to ensure accuracy of all information on our list, however we
+  urge a potential buyer to double check all details with the owner of a
+  particular property before any financial, travel or any other real estate
+  related decision is undertaken."
