@@ -65,15 +65,14 @@ article ul li {
     position: absolute;
     top: 25%;
   }
+  .is-fullscreen img {
+    height: 100vh;
+  }
 }
 
 /*.carousel.is-fullscreen .carousel-cell {
   height: 100vh;
 }*/
-
-.is-fullscreen img {
-  height: 100vh; 
-}
 
 .carousel {
   background: #222;
@@ -101,3 +100,10 @@ article ul li {
 .carousel.is-fullscreen .carousel-cell-image {
   max-width: 100%;
 }
+
+
+.flickity-button {
+    background: #fff;
+    cursor: pointer;
+}
+
