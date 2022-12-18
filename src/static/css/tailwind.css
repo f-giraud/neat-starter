@@ -60,4 +60,44 @@ article ul li {
   .detail .carousel-cell img {
     height:400px;
   }
+  .detail.is-fullscreen .carousel-cell img {
+    height:100vh;
+    position: absolute;
+    top: 25%;
+  }
+}
+
+/*.carousel.is-fullscreen .carousel-cell {
+  height: 100vh;
+}*/
+
+.is-fullscreen img {
+  height: 100vh; 
+}
+
+.carousel {
+  background: #222;
+}
+
+.is-fullscreen .carousel-cell {
+  width: 100%;
+  height: 300px;
+  margin-right: 10px;
+  /* center images in cells with flexbox */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel.is-fullscreen .carousel-cell {
+  height: 100%;
+}
+
+.is-fullscreen .carousel-cell-image {
+  display: block;
+  max-height: 100%;
+}
+
+.carousel.is-fullscreen .carousel-cell-image {
+  max-width: 100%;
 }

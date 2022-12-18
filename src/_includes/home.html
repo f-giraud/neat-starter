@@ -11,7 +11,7 @@
       <meta name="description" content="{{description}}"/>
     {% endif %}
     {% block head %}{% endblock %}
-    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/flickity@3/dist/flickity.min.css">
     <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
     {% if prism == true %}
       <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
@@ -45,7 +45,7 @@
       <div class="absolute bottom-36 text-center w-full lg:w-1/2 bg-white/75 p-8 rounded-r-lg shadow">
         <h1>
           Welcome to
-          <strong class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
+          <strong class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-green-800">
             {{ settings.site_name }}
           </strong>
         </h1>
@@ -64,7 +64,7 @@
 
     {% include "./partials/footer.html" %}
 
-    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+    <script src="https://unpkg.com/flickity@3/dist/flickity.pkgd.min.js"></script>
 
     <script type="text/javascript">
       var elem = document.querySelector('.main-carousel');
