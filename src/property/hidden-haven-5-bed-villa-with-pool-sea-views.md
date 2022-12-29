@@ -1,7 +1,7 @@
 ---
 title: Hidden Haven - 5 Bed Villa with pool & Sea Views
 description: Relax with the whole family at this peaceful 5 Bedroom Villa
-  overlooking Hout Bay Beach
+  overlooking the Hout Bay Beach
 date: 2022-11-22T18:12:00.438Z
 maps: <iframe
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3946.217357898266!2d115.26517672872481!3d-8.478234068589794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd222b100e0b017%3A0xa2aad304622f85cd!2sVilla%20Kirani!5e0!3m2!1sen!2sid!4v1669140845576!5m2!1sen!2sid"
