@@ -1,5 +1,5 @@
 ---
-title: Moa Resort
+title: MOA Resort
 description: Nestled between Umalas and Canggu this luxury villa compound boasts
   an envious and strategic location. Two of the trendiest and fastest-growing
   areas of Bali are on your doorstep, yet the immediate surroundings are serene
