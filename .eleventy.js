@@ -60,6 +60,16 @@ module.exports = function (eleventyConfig) {
     return collectionApi.getFilteredByTag("property");
   });
 
+  // Filter for markdown-it
+  const md = require("markdown-it")({
+    html: true,
+    linkify: true,
+    typographer: true,
+  });
+  eleventyConfig.addFilter("markdownify", (markdownString) =>
+    md.render(markdownString)
+  );
+
   // Let Eleventy transform HTML files as nunjucks
   // So that we can use .html instead of .njk
   return {

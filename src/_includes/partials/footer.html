@@ -4,7 +4,7 @@
       <div class="container mx-auto pb-36 flex flex-col w-full lg:w-1/2">
         <h3 class="text-2xl my-8 text-center">About Us</h3>
         <p class="my-2 leading-loose text-white">
-          {{ settings.about_text | safe }}
+          {{ settings.about_text | markdownify | safe }}
         </p>
       </div>
     </div>
@@ -78,7 +78,7 @@
                         <div data-netlify-recaptcha="true"></div>
                     </div>
                 </div>
-                <button type="submit" class="my-2 w-full lg:w-1/4 py-1 px-2 rounded bg-green-600 text-white border border-green-600 hover:text-green-600 hover:bg-white">Submit</button>
+                <button type="submit" class="my-2 w-full lg:w-1/4 py-1 px-2 rounded bg-gold-500 text-white border border-gold-500 hover:text-gold-500 hover:bg-white">Submit</button>
             </form>
             {% endif %}
         </div>

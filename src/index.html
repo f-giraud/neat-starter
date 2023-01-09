@@ -5,7 +5,7 @@ path: home
 ---
 
 <section class="mt-15">
-    <div class="lg:grid grid-cols-4 gap-8">
+    <div class="lg:grid grid-cols-3 gap-8">
     {% set postslist = collections.property %}
 
     {% for post in postslist | reverse %}
@@ -15,7 +15,7 @@ path: home
             {% endif %}
             <div class="p-4 rounded-b">
                 <h2 class="font-bold text-3xl text-gray-900 mb-2">
-                    <a href="{{ post.url | url }}">
+                    <a href="{{ post.url | url }}" class="hover:text-darkblue-700">
                         {% if post.data.title %}
                             {{ post.data.title }}
                         {% else %}
@@ -38,7 +38,7 @@ path: home
                 {% endif %}
 
                 <p>
-                    <a href="{{ post.url | url }}" class="text-darkblue-700 font-bold text-lg">
+                    <a href="{{ post.url | url }}" class="text-gold-500 hover:text-gold-700 font-bold text-lg">
                         Read more →
                     </a>
                 </p>
