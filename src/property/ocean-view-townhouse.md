@@ -8,7 +8,7 @@ maps: <iframe
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3942.5005877885606!2d115.19923506585386!3d-8.83289734320596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x12ea65501ce115ff!2zOMKwNDknNTcuNCJTIDExNcKwMTInMDYuNCJF!5e0!3m2!1sen!2sid!4v1673234611014!5m2!1sen!2sid"
   width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
   referrerpolicy="no-referrer-when-downgrade"></iframe>
-image_1_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/Project/634e3b4b57ff5377cfaffc83/NUSA%20DUA%20LOFT%20-%20LIVINGROOM%20-%20VIEW%2002.jpg
+image_1_url: https://ucarecdn.com/8d811ab9-d255-4698-9b83-e23a4e5630d3/
 image_2_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/Project/634e3b4b57ff5377cfaffc83/NUSA%20DUA%20LOFT%20-%20KITCHEN%20_%20DINNING%20-%20VIEW%2001.jpg
 image_3_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/Project/634e3b4b57ff5377cfaffc83/INTERIOR%20SECTION%202.png
 image_4_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/Project/634e3b4b57ff5377cfaffc83/NUSA%20DUA%20-%20FRONT%20VIEW%20-%20CLUSTER%20.jpg
