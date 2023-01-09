@@ -38,8 +38,8 @@ Fully furnished
 
 **Perfect Recipe for Great Investment**
 
-ROI: Over 18%\
-Amortized in 6 years
+**ROI: Over 18%**\
+**Amortized in 6 years**
 
 Massive rental potential ($550 / night, 80% occupancy rate)
 
