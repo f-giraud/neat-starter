@@ -72,16 +72,31 @@
       for (var i = 0; i < data.length; i++) {
         // populate select element with json
         {% if path == "detail" %}
-        ele.innerHTML = ele.innerHTML +
+        if (i == 228) {
+          ele.innerHTML = ele.innerHTML +
+            '<option selected value="+' + data[i]['code'] + '">' + data[i]['country'] + ' (+' + data[i]['code'] + ')</option>';
+        } else {
+          ele.innerHTML = ele.innerHTML +
             '<option value="+' + data[i]['code'] + '">' + data[i]['country'] + ' (+' + data[i]['code'] + ')</option>';
+        }
         {% endif %}
         {% if path == "home" %}
-        ele2.innerHTML = ele2.innerHTML +
+        if (i == 228) {
+          ele2.innerHTML = ele2.innerHTML +
+            '<option selected value="+' + data[i]['code'] + '">' + data[i]['country'] + ' (+' + data[i]['code'] + ')</option>';
+        } else {
+          ele2.innerHTML = ele2.innerHTML +
             '<option value="+' + data[i]['code'] + '">' + data[i]['country'] + ' (+' + data[i]['code'] + ')</option>';
+        }
         {% endif %}
         {% if path == "properties" %}
-        ele2.innerHTML = ele2.innerHTML +
+        if (i == 228) {
+          ele2.innerHTML = ele2.innerHTML +
+            '<option selected value="+' + data[i]['code'] + '">' + data[i]['country'] + ' (+' + data[i]['code'] + ')</option>';
+        } else {
+          ele2.innerHTML = ele2.innerHTML +
             '<option value="+' + data[i]['code'] + '">' + data[i]['country'] + ' (+' + data[i]['code'] + ')</option>';
+        }
         {% endif %}
       }
     </script>

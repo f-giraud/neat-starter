@@ -33,19 +33,37 @@
     <div class="-z-10 w-full relative" style="height: 800px">
       <div class="main-carousel">
         <div class="carousel-cell">
-          <img src="https://datafile4.arkadia.com/pictures/properties/fullsize/8-8753071-1559592466900928550.jpg" alt="cat nose" />
+          <img src="https://ucarecdn.com/c63909af-fe39-4b32-8dfe-51f8cb753088/slider1.jpg" alt="ilotinvest.com - property" />
         </div>
         <div class="carousel-cell">
-          <img src="https://datafile4.arkadia.com/pictures/properties/fullsize/7-7560873-1980925921183261500.jpg" alt="cat nose" />
+          <img src="https://ucarecdn.com/b9620d03-23a5-45ff-b8ce-d16ed4cd0b3c/slider2.jpg" alt="ilotinvest.com - property" />
         </div>
         <div class="carousel-cell">
-          <img src="https://datafile4.arkadia.com/pictures/properties/fullsize/6-7322438-46014536029563751.jpg" alt="cat nose" />
+          <img src="https://ucarecdn.com/649c718a-9e1b-4f82-af9f-60359abc754d/slider3.jpg" alt="ilotinvest.com - property" />
+        </div>
+        <div class="carousel-cell">
+          <img src="https://ucarecdn.com/b9f94ff7-39f7-4478-807b-887bddc9534c/slider4.jpg" alt="ilotinvest.com - property" />
+        </div>
+        <div class="carousel-cell">
+          <img src="https://ucarecdn.com/e1bf918d-1815-4642-b935-710dde04e192/slider5.jpg" alt="ilotinvest.com - property" />
+        </div>
+        <div class="carousel-cell">
+          <img src="https://ucarecdn.com/e77b55e2-a8d0-4571-9301-8d780267c442/slider6.jpg" alt="ilotinvest.com - property" />
+        </div>
+        <div class="carousel-cell">
+          <img src="https://ucarecdn.com/e0783226-a431-4e37-8872-1acf8f53a8d9/slider7.jpg" alt="ilotinvest.com - property" />
+        </div>
+        <div class="carousel-cell">
+          <img src="https://ucarecdn.com/3bf2b161-8dba-4c5d-b4ba-fbe5f0508216/slider8.jpg" alt="ilotinvest.com - property" />
+        </div>
+        <div class="carousel-cell">
+          <img src="https://ucarecdn.com/05419b5c-62c0-4b8e-bd75-faa10a811c01/slider9.jpg" alt="ilotinvest.com - property" />
         </div>
       </div>
       <div class="absolute bottom-36 text-center w-full lg:w-1/2 bg-white/75 p-8 rounded-r-lg shadow">
         <h1>
           Welcome to
-          <strong class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-green-800">
+          <strong class="bg-clip-text text-transparent bg-gradient-to-r from-darkblue-400 to-darkblue-800">
             {{ settings.site_name }}
           </strong>
         </h1>
@@ -57,7 +75,7 @@
     </div>
 
     <div class="container mx-auto flex flex-col justify-center items-center bg-white rounded-lg px-8 z-20 pb-36">
-      <h3 class="text-2xl my-8">Check out our carefully selected projects!</h3>
+      <h3 class="text-2xl my-8">Perfect Investment Turnkey Development Projects</h3>
 
       {{ content | safe }}
     </div>
@@ -85,11 +103,21 @@
       for (var i = 0; i < data.length; i++) {
         // populate select element with json
         {% if path != "home" %}
-        ele.innerHTML = ele.innerHTML +
+        if (i == 228) {
+          ele.innerHTML = ele.innerHTML +
+            '<option selected value="+' + data[i]['code'] + '">' + data[i]['country'] + ' (+' + data[i]['code'] + ')</option>';
+        } else {
+          ele.innerHTML = ele.innerHTML +
             '<option value="+' + data[i]['code'] + '">' + data[i]['country'] + ' (+' + data[i]['code'] + ')</option>';
+        }
         {% endif %}
-        ele2.innerHTML = ele2.innerHTML +
+        if (i == 228) {
+          ele2.innerHTML = ele2.innerHTML +
+            '<option selected value="+' + data[i]['code'] + '">' + data[i]['country'] + ' (+' + data[i]['code'] + ')</option>';
+        } else {
+          ele2.innerHTML = ele2.innerHTML +
             '<option value="+' + data[i]['code'] + '">' + data[i]['country'] + ' (+' + data[i]['code'] + ')</option>';
+        }
       }
     </script>
 

@@ -1,9 +1,10 @@
 <div class="{{ 'lg:fixed' if path == 'home' }} w-full bg-white/75 z-50">
-    <nav class="flex items-center justify-center lg:justify-between flex-wrap p-6 lg:px-0 container mx-auto" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false">
+    <nav class="flex items-center justify-center lg:justify-between flex-wrap px-6 py-2 lg:px-0 container mx-auto" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false">
         <!--Logo etc-->
         <div class="flex items-center">
-            <a href="/" class="text-green-500 font-bold text-lg">
-                {{ settings.site_name }}</a>
+            <a href="/" class="text-darkblue-700 font-bold text-lg" title="{{ settings.site_name }}">
+                <img src="https://ucarecdn.com/d1e8e109-d5d4-40aa-b0c3-aa6dcab526dc/logo.png" alt="{{ settings.site_name }}" style="height:72px;">
+            </a>
         </div>
 
         <!--Toggle button (hidden on large screens)-->
@@ -23,11 +24,11 @@
                     {% for item in navigation.items %}
                         {% if item.cta %}
                             <li class="nav__item mr-3">
-                                <a @click="isOpen = false" class="rounded border border-green-500 hover:bg-transparent hover:text-green-500 py-2 px-4 text-white bg-green-500" href="{{ item.url }}">{{ item.text }}</a>
+                                <a @click="isOpen = false" class="rounded border border-darkblue-700 hover:bg-transparent hover:text-darkblue-700 py-2 px-4 text-white bg-darkblue-700" href="{{ item.url }}">{{ item.text }}</a>
                             </li>
                         {% else %}
                             <li class="nav__item mr-3">
-                                <a @click="isOpen = false" class="text-ml inline-block text-black no-underline hover:text-green-500 py-2 px-4" href="{{ item.url }}">{{ item.text }}</a>
+                                <a @click="isOpen = false" class="text-ml inline-block text-black no-underline hover:text-darkblue-700 py-2 px-4" href="{{ item.url }}">{{ item.text }}</a>
                             </li>
                         {% endif %}
                     {% endfor %}
