@@ -36,7 +36,7 @@ Fully furnished
 4 Bedrooms: 595,000 USD\
 6 Bedrooms: 640,000 USD
 
-#### **Perfect Recipe for Great Investment**
+**Perfect Recipe for Great Investment**
 
 **ROI: Over 20%**\
 **Amortized in 5 to 6 years**
@@ -55,8 +55,6 @@ Located in the prime area of Canggu, Berawa, the compound is surrounded by stunn
 
 With its prime location and design, each villa has a rental potential between $800 to $1,200 per night, generating over **$200,000** revenue per year.  The investment can easily be amortized in **5 to 6 years**.  Based on its location, quality, ROI potential and 33 years leasehold it can be resold in no time.
 
-
-
 ### **Property Information**
 
  MOA is a tropical industrial style villa compound.
@@ -70,7 +68,7 @@ All the rooms are perfectly insulated with double layer walls giving optimum the
 The construction techniques are cost efficient in terms of energy consumption and reduces waste.  It also creates a healthy environment for guests and the interior design follows this philosophy.  The main structure of the villa is made from steel beams allowing to build rooms without any column for an extendable length.\
 The main plateau on the first floor offer a large living space of 12 meters, all open to the outside area.  The material used are natural wood and mineral stones.
 
-**Location:**
+### **Location:**
 
 Canggu, Berawa & Umalas
 
