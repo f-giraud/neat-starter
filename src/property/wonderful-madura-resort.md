@@ -8,7 +8,7 @@ maps: <iframe
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d986.0672388391336!2d115.14908164060365!3d-8.665951903717326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd247f56f5c2337%3A0xcbc7d04e076dcf85!2sVilla%20Madura!5e0!3m2!1sen!2sid!4v1672989331211!5m2!1sen!2sid"
   width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
   referrerpolicy="no-referrer-when-downgrade"></iframe>
-image_1_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afd6e3d016020bdad279af/exterior/EXTERIOR%20B.jpg
+image_1_url: https://ucarecdn.com/92b0a434-e781-49c2-ac32-bc91cdd9ddb0/
 image_2_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afd6e3d016020bdad279af/interior/9.jpg
 image_3_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afd6e3d016020bdad279af/interior/10.jpg
 image_4_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afd6e3d016020bdad279af/interior/23.jpg
