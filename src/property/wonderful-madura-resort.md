@@ -18,72 +18,85 @@ image_7_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/pro
 tags:
   - property
 ---
-### Property Details
+### **Property Details**
 
-Amazing Turnkey Development Project
-3 Units left, 1 unit ready May 2023
+Amazing **Turnkey** Development Project
+
+3 Units left, **1 unit ready May 2023**\
 Off plan
 
-Exceptional 32 years Leasehold
-Land Size: 300 Sqm
-Building Size: 198 Sqm
+Exceptional **32 years** Leasehold
+
+Land Size: 300 Sqm\
+Building Size: 198 Sqm\
 Pool Size: 11 x 3.5 m
-Large living area
+
+Large living area\
 Fully furnished
+
 4 Bedrooms: 540,000 USD
 
 **Perfect Recipe for Great Investment**
-ROI: Over 18%
+
+ROI: Over 18%\
 Amortized in 6 years
+
 Massive rental potential ($550 / night, 80% occupancy rate)
 
 Prime Design
-Madura’s contemporary design aims at optimizing space.  The beautiful L-shape villa offers a large main living area facing the garden and pool area.  The volumes give a nice modern style to the villa and a luxury feeling with touch of antiques and Balinese artifacts.
+
+Madura’s contemporary design aims at optimizing space.  The beautiful L-shape villa offers a large main living area facing the garden and pool area.  The volumes give a nice modern style to the villa and a luxury feeling with touch of antiques and Balinese artifacts.
 
 Prime Location
+
 Located in the prime area of Canggu, Berawa, with easy and short access minutes to the beach, top bar & restaurants, sport facilities and international schools.
 
 Prime Investment
-With its prime location and design, each villa has a rental potential between $550 per night, generating over **$160,000** revenue per year.  The investment can easily be amortized in **6 years**.  Based on its location, quality, ROI potential and 32 years leasehold it can be resold in no time. 
 
-### Property Information
+With its prime location and design, each villa has a rental potential between $550 per night, generating over **$160,000** revenue per year.  The investment can easily be amortized in **6 years**.  Based on its location, quality, ROI potential and 32 years leasehold it can be resold in no time.
 
-Madura is a beautiful L-shape villa offering large main living space composed of a fancy dining space and a beautiful lounge corner all in one large breezy plateau, facing the garden and pool area.  Those volumes give a nice modern style to the villa and a luxury feeling.
+### **Property Information**
+
+Madura is a beautiful L-shape villa offering large main living space composed of a fancy dining space and a beautiful lounge corner all in one large breezy plateau, facing the garden and pool area.  Those volumes give a nice modern style to the villa and a luxury feeling.
 
 Functional space & clean architectural lines
 
-The spacious main open space is elegantly designed in a mix of soft sophistication and tropical touch.  Fully equipped the villa is ready to plan fancy dinners in a cool breeze coming from the garden and pool area.  The bar and kitchen are designed with an optimum functionality.
+The spacious main open space is elegantly designed in a mix of soft sophistication and tropical touch.  Fully equipped the villa is ready to plan fancy dinners in a cool breeze coming from the garden and pool area.  The bar and kitchen are designed with an optimum functionality.
 
 Elegant Interior Design & Comfy Rooms
 
 Each villa is furnished by our international interior designer.
+
 The design provides a clean space with touch of antiques and Balinese artifacts.
+
 The 4 bedrooms with ensuite bathrooms, large wardrobe, good quality bedding and beautiful head bed offer a peaceful and comfortable boutique-hotel style experience.
 
-### Location:
+### **Location:**
 
 Canggu, Berawa & Umalas
 
-Nestled between Umalas and Canggu Madura project boasts an envious and strategic location. Two of the trendiest and fastest-growing areas of Bali are on your doorstep, yet the immediate surroundings are serene and tranquil with rice field views. 
+Nestled between Umalas and Canggu Madura project boasts an envious and strategic location. Two of the trendiest and fastest-growing areas of Bali are on your doorstep, yet the immediate surroundings are serene and tranquil with rice field views.
 
 Close to the beach, top bar & restaurants, sport facilities and international schools.
 
 The areas of Canggu, Berawa, and Umalas are in high demand and fast growing in popularity and investment. Expecting to continue to grow and increase in value.
 
-### Why Invest with Us:
+### **Why Invest with Us:**
 
 **Quality First!**
+
 We are the no 1 developer in Bali promoting a conscious way to build & invest.
+
 We invest in areas up to our standards with strong upside potential to deliver the highest ROI and value gain.
 
 We respect the highest standard of construction by ensuring the quality and integrity in all our projects. Always on top of the latest innovations, materials, and systems advances, able to adapt any project to the many specific aspects of tropical locations. Steel is our primary choice for structural material.
 
-Our Villa Management experience guarantees high occupancy rate, optimizing the revenue potential and the best return on investment.
+Our Villa Management experience guarantees high occupancy rate, optimizing the revenue potential and the best return on investment
 
-### Why Invest in Bali:
+### **Why Invest in Bali:**
 
-With over 6 million tourists in 2019, Bali is one of the leading destinations for world travellers. 
+With over 6 million tourists in 2019, Bali is one of the leading destinations for world travelers.
 
-With its glorious natural scenery, warm climate, welcoming culture, low cost of living, both domestic and international tourists from many different countries, Bali is one of the most desirable places across the world to live, visit, and invest. 
+With its glorious natural scenery, warm climate, welcoming culture, low cost of living, both domestic and international tourists from many different countries, Bali is one of the most desirable places across the world to live, visit, and invest.
 
 We offer a chance to make a smart financial investment into this magnificent part of the world.
