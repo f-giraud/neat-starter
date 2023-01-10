@@ -1,4 +1,3 @@
----
 items:
   - text: About
     url: "#about-us"
@@ -7,8 +6,9 @@ items:
     url: "#contact-us"
     cta: false
   - text: Our Properties
-    url: "/properties"
+    url: /properties
     cta: false
   - text: Chat with Us
-    url: "https://api.whatsapp.com/send?phone=628xxxxxxxxx&text=Hello"
+    url: https://api.whatsapp.com/send?phone=6281916101970&text=Hello, how can I
+      help you today?
     cta: true
