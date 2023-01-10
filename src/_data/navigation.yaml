@@ -9,6 +9,6 @@ items:
     url: /properties
     cta: false
   - text: Chat with Us
-    url: https://api.whatsapp.com/send?phone=6281916101970&text=Hello, how can I
-      help you today?
+    url: https://api.whatsapp.com/send?phone=6281916101970&text=Hello, I'm
+      interested by your investment property.
     cta: true
