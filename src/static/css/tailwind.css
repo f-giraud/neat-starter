@@ -49,16 +49,23 @@ article ul li {
   }
   .detail .carousel-cell img {
     height:250px;
+    display: block;
+  }
+  .home-crsl {
+    height: 300px;
   }
 }
 
-
 @media (min-width: 1280px) {
+  .home-crsl {
+    height: 720px;
+  }
   .detail .carousel-cell {
     height:400px;
   }
   .detail .carousel-cell img {
     height:400px;
+    display: block;
   }
   .detail.is-fullscreen .carousel-cell img {
     height:100vh;
