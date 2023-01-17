@@ -28,7 +28,7 @@ Off plan
 Exceptional **33 years** Leasehold
 
 Land Size: 300 Sqm\
-Building Size: 198 Sqm\
+Building Size: 270 Sqm\
 Pool Size: 11 x 3.5 m\
 Living Area: 12 meters\
 Fully furnished
