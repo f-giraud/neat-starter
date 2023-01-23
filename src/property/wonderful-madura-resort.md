@@ -71,6 +71,10 @@ The design provides a clean space with touch of antiques and Balinese artifacts.
 
 The 4 bedrooms with ensuite bathrooms, large wardrobe, good quality bedding and beautiful head bed offer a peaceful and comfortable boutique-hotel style experience.
 
+**T﻿ake a virtual tour:**
+
+<https://ilotinvest.com/static/vts/villa-madura/index.htm>
+
 ### **Location:**
 
 Canggu, Berawa & Umalas
