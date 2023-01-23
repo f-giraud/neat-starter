@@ -55,6 +55,12 @@ Prime Investment
 
 With its prime location and design, each villa has a rental potential between $550 per night, generating over **$160,000** revenue per year.  The investment can easily be amortized in **6 years**.  Based on its location, quality, ROI potential and 32 years leasehold it can be resold in no time.
 
+**T﻿ake a virtual tour:**
+
+<https://ilotinvest.com/static/vts/villa-madura/index.htm>
+
+
+
 ### **Property Information**
 
 Madura is a beautiful L-shape villa offering large main living space composed of a fancy dining space and a beautiful lounge corner all in one large breezy plateau, facing the garden and pool area.  Those volumes give a nice modern style to the villa and a luxury feeling.
@@ -71,9 +77,7 @@ The design provides a clean space with touch of antiques and Balinese artifacts.
 
 The 4 bedrooms with ensuite bathrooms, large wardrobe, good quality bedding and beautiful head bed offer a peaceful and comfortable boutique-hotel style experience.
 
-**T﻿ake a virtual tour:**
 
-<https://ilotinvest.com/static/vts/villa-madura/index.htm>
 
 ### **Location:**
 
