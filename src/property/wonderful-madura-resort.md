@@ -59,6 +59,10 @@ With its prime location and design, each villa has a rental potential between $5
 
 <https://ilotinvest.com/static/vts/villa-madura/index.htm>
 
+![https://ilotinvest.com/static/vts/villa-madura/index.htm](https://geonet.properties/_next/image?url=https%3A%2F%2Fs3.ap-southeast-1.amazonaws.com%2Fmedia.geonet.properties%2Fprojectimages%2F62afd6e3d016020bdad279af%2Fexterior%2FEXTERIOR%20B.jpg&w=2048&q=75 "Madura Virtual Tour")
+
+
+
 
 
 ### **Property Information**
