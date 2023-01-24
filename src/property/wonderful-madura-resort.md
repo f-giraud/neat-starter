@@ -59,8 +59,6 @@ With its prime location and design, each villa has a rental potential between $5
 
 <https://ilotinvest.com/static/vts/villa-madura/index.htm>
 
-
-
 ### **Property Information**
 
 Madura is a beautiful L-shape villa offering large main living space composed of a fancy dining space and a beautiful lounge corner all in one large breezy plateau, facing the garden and pool area.  Those volumes give a nice modern style to the villa and a luxury feeling.
