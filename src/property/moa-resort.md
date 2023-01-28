@@ -18,7 +18,7 @@ image_7_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/pro
 tags:
   - property
 ---
-### **Property Details**
+### [](https://ilotinvest.com/static/vts/villa-moa/index.htm)**Property Details**
 
 Remarkable **Turnkey** Development Project
 
@@ -54,6 +54,12 @@ Located in the prime area of Canggu, Berawa, the compound is surrounded by stunn
  Prime Investment
 
 With its prime location and design, each villa has a rental potential between $800 to $1,200 per night, generating over **$200,000** revenue per year.  The investment can easily be amortized in **5 to 6 years**.  Based on its location, quality, ROI potential and 33 years leasehold it can be resold in no time.
+
+**T﻿ake a virtual tour:**
+
+<https://ilotinvest.com/static/vts/villa-moa/index.htm>
+
+
 
 ### **Property Information**
 
