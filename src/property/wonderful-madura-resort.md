@@ -59,6 +59,10 @@ With its prime location and design, each villa has a rental potential between $5
 
 [Click here to take a virtual tour](https://ilotinvest.com/static/vts/villa-madura/index.htm){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100}
 
+**PDF Brochure:**
+
+[Download PDF Brochure](https://ilotinvest.com/static/pdfs/villa-madura/brochure-202302.pdf){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100}
+
 ### **Property Information**
 
 Madura is a beautiful L-shape villa offering large main living space composed of a fancy dining space and a beautiful lounge corner all in one large breezy plateau, facing the garden and pool area.  Those volumes give a nice modern style to the villa and a luxury feeling.
