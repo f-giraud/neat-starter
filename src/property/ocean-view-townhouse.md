@@ -13,7 +13,7 @@ image_2_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/Pro
 image_3_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/Project/634e3b4b57ff5377cfaffc83/INTERIOR%20SECTION%202.png
 image_4_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/Project/634e3b4b57ff5377cfaffc83/NUSA%20DUA%20-%20FRONT%20VIEW%20-%20CLUSTER%20.jpg
 image_5_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/Project/634e3b4b57ff5377cfaffc83/NUSA%20DUA%20LOFT%20-%20BEDROOM%20-%20VIEW%2002.jpg
-image_6_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/Project/634e3b4b57ff5377cfaffc83/NUSA%20DUA%20LOFT%20-%20BATHROOM%20-%20VIEW%2001.jpg
+image_6_url: https://ucarecdn.com/9a0d5fca-f5a5-4849-a505-e32b9b667376/
 image_7_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/Project/634e3b4b57ff5377cfaffc83/NUSA%20DUA%20LOFT%20-%20BEDROOM%20-%20VIEW%2001.jpg
 tags:
   - property
