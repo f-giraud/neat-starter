@@ -745,7 +745,7 @@ With its prime location and design, each townhouse has a rental potential betwee
 
 **PDF Brochure:**
 
-[Download PDF Brochure](https://ilotinvest.com/static/pdfs/villa-ocean/brochure-202302.pdf){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100}
+[Download PDF](https://ilotinvest.com/static/pdfs/villa-ocean/brochure-202302.pdf){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100 .pdf-btn}
 
 ### **Property Information**
 
