@@ -743,6 +743,10 @@ Prime Investment
 
 With its prime location and design, each townhouse has a rental potential between $250 per night, generating over **$73,000** revenue per year.  The investment can easily be amortized in **7 years**.  Based on its location, quality, ROI potential and 37 years leasehold it can be resold in no time.
 
+**PDF Brochure:**
+
+[Download PDF Brochure](https://ilotinvest.com/static/pdfs/villa-ocean/brochure-202302.pdf){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100}
+
 ### **Property Information**
 
  
