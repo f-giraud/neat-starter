@@ -9,12 +9,12 @@ maps: <iframe
   width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
   referrerpolicy="no-referrer-when-downgrade"></iframe>
 image_1_url: https://ucarecdn.com/3766f68e-d1c6-4b00-88cd-f3040cd4eb0d/
-image_2_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afeb0fd016020bdad2802d/exterior/MOA-1.jpg
-image_3_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afeb0fd016020bdad2802d/exterior/_MG_0568-HDR-2_airbnb.jpg
-image_4_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afeb0fd016020bdad2802d/interior/MOA-5.jpg
-image_5_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afeb0fd016020bdad2802d/interior/IMG_3383.jpg
-image_6_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afeb0fd016020bdad2802d/interior/IMG_3153.jpg
-image_7_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afeb0fd016020bdad2802d/interior/IMG_3085.jpg
+image_2_url: https://ucarecdn.com/06d7439f-6e66-4d58-b172-07166df7653d/
+image_3_url: https://ucarecdn.com/76f97d42-08ab-4d36-b671-cf07a23cce71/
+image_4_url: https://ucarecdn.com/b918c67d-0892-45ae-9c86-96d777754fff/
+image_5_url: https://ucarecdn.com/27989363-739c-4b5d-bc16-2cf9923681e6/
+image_6_url: https://ucarecdn.com/fecd5c8b-3eb9-4af3-9121-64992f39f866/
+image_7_url: https://ucarecdn.com/c8d0a245-bfdf-4eba-acb0-1dfa1861eada/
 tags:
   - property
 ---
