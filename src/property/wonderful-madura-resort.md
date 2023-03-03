@@ -9,12 +9,12 @@ maps: <iframe
   width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
   referrerpolicy="no-referrer-when-downgrade"></iframe>
 image_1_url: https://ucarecdn.com/92b0a434-e781-49c2-ac32-bc91cdd9ddb0/
-image_2_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afd6e3d016020bdad279af/interior/9.jpg
-image_3_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afd6e3d016020bdad279af/interior/10.jpg
-image_4_url: https://ucarecdn.com/4ebfecd2-2133-4ffa-b3c0-ce9af61e7893/
-image_5_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afd6e3d016020bdad279af/interior/35.jpg
-image_6_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afd6e3d016020bdad279af/interior/37.jpg
-image_7_url: https://s3.ap-southeast-1.amazonaws.com/media.geonet.properties/projectimages/62afd6e3d016020bdad279af/interior/25.jpg
+image_2_url: https://ucarecdn.com/3f9f8aa8-120f-4c6f-af16-a7300fd8eb2b/
+image_3_url: https://ucarecdn.com/9054526d-dc79-41aa-9fd7-aa26e6eca2e6/
+image_4_url: https://ucarecdn.com/4b75012d-e1ff-4c73-b8bb-b15ea2562312/
+image_5_url: https://ucarecdn.com/6b68903f-713c-479a-a3c2-cf74ca22c9cd/
+image_6_url: https://ucarecdn.com/27be420d-f1e0-4541-8080-911d9e13fce1/
+image_7_url: https://ucarecdn.com/71031a61-1275-487e-a290-8d9502456ccd/
 tags:
   - property
 ---
