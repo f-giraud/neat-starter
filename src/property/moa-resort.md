@@ -51,7 +51,7 @@ Prime Location
 
 Located in the prime area of Canggu, Berawa, the compound is surrounded by stunning Balinese rice fields, minutes away from the beach, top bar & restaurants, sport facilities and international schools.
 
- Prime Investment
+Prime Investment
 
 With its prime location and design, each villa has a rental potential between $800 to $1,200 per night, generating over **$200,000** revenue per year.  The investment can easily be amortized in **5 to 6 years**.  Based on its location, quality, ROI potential and 33 years leasehold it can be resold in no time.
 
@@ -63,10 +63,9 @@ With its prime location and design, each villa has a rental potential between $8
 
 [Download PDF](https://ilotinvest.com/static/pdfs/villa-moa/brochure-202302.pdf){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100 .pdf-btn }
 
-
 ### **Property Information**
 
- MOA is a tropical industrial style villa compound.
+MOA is a tropical industrial style villa compound.
 
 Combining steel structure and premium wood to create contemporary lines and beautiful volumes.\
 The 20 villas are secluded in a private area with a 24H/7 days entrance security service.\
@@ -83,9 +82,9 @@ Canggu, Berawa & Umalas
 
 Nestled between Umalas and Canggu MOA projects boasts an envious and strategic location. Two of the trendiest and fastest-growing areas of Bali are on your doorstep, yet the immediate surroundings are serene and tranquil with rice field views.
 
- Close to the beach, top bar & restaurants, sport facilities and international schools.
+Close to the beach, top bar & restaurants, sport facilities and international schools.
 
- The areas of Canggu, Berawa, and Umalas are in high demand and fast growing in popularity and investment. Expecting to continue to grow and increase in value.
+The areas of Canggu, Berawa, and Umalas are in high demand and fast growing in popularity and investment. Expecting to continue to grow and increase in value.
 
 ### **Why Invest with Us:**
 
@@ -99,10 +98,44 @@ We respect the highest standard of construction by ensuring the quality and inte
 
 Our Villa Management experience guarantees high occupancy rate, optimizing the revenue potential and the best return on investment.
 
-### Why Invest in Bali:
+### **Construction:**
 
-With over 6 million tourists in 2019, Bali is one of the leading destinations for world travelers. 
+Ilot Property Bali’s beating heart is its specialized engineering team.
 
-With its glorious natural scenery, warm climate, welcoming culture, low cost of living, both domestic and international tourists from many different countries, Bali is one of the most desirable places across the world to live, visit, and invest. 
+Always on top of the latest innovations, materials, and  systems advances, they are able to adapt any project to the many specific aspects of tropical locations.
 
-We offer a chance to make a smart financial investment into this magnificent part of the world.
+**Mircro-Pile Fondation**
+
+For Bali and the entire Indonesian archipelago micro-piles are one of the most effective solutions in terms of costs, quality, and efficiency.
+
+**Steel beams**
+
+Steel is our choice for structural material. Steel can be assembled quickly, has  good durability, loads, integrity, and recyclable.
+
+**Walls & Partitions**
+
+Our special double-layer walls are the perfect solution for thermal and sound insulation of tropical buildings.
+
+### **Why Choose Leasehold:**
+
+W﻿hy leasehold is more beneficial?
+
+With leasehold, the land price is 3 to 4 time cheaper than freehold,  allowing to invest for less, get a better ROI and reach wider potential buyers when reselling.  Our long term leasehold gives you the opportunity to maintain a competitive leasehold even after amortization, which optimizes your resale value and exit strategy.
+
+### **Why Invest in Bali:**
+
+**World Tourists’ Destination**
+
+More than 25 million people come to Bali all year round, domestic and international tourists alike.  The villas occupancy rate can easily reach 80%, making Bali a perfect place to invest in villa rental.
+
+**Good Money Value**
+
+According to the Investment Coordinating Council, investment in Bali’s real estate has grown by 28.5% in the past 2 years. Bali property investments have high return on investment, aligned with the steady growth in tourism, affordable land rice, and low overhead cost.
+
+**Steady Economy and Political Environment**
+
+Bali is part of Indonesia, the 3rd largest democracy in the world and the largest economy in Southeast Asia, attracting over 158 Trillion IDR of Foreign Direct Investment. Foreign investments are facilitated by protecting and accommodating laws.
+
+**Invest in paradise**
+
+With its glorious scenery, warm climate, welcoming culture and low cost of living, Bali is one of the most desirable place to live, visit,  and invest.  We offer the a chance to make a smart investment into this magnificent part of the world.
