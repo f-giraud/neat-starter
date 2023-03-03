@@ -47,11 +47,11 @@ Good rental potential ($250 / night, 80% occupancy rate)
 
 Prime Design
 
-Nusa Dua Townhouse modern design offers enhanced living space on both floors.  On the upper floor the loft style living room and kitchen offers an uncredible view of the ocean.  On The lower floor the master bedrooms have a direct access to the garden and the swimming pool.
+Ocean Breeze Townhouse modern design offers enhanced living space on both floors.  On the upper floor the loft style living room and kitchen offers an incredible view of the ocean.  On The lower floor the master bedrooms have a direct access to the garden and the swimming pool.
 
 Prime Location
 
-Located on a hill at the southeast part of the Nusa Dua peninsula providing an incredible and unobstructed ocean view.
+Ocean Breeze is located only few minutes away from golf course, incredible restaurants, the world famous Uluwatu surf spot and Jimbaran renowned for its fish restaurant on the beach.
 
 Prime Investment
 
@@ -71,11 +71,13 @@ This heaven of peace and serenity is the perfect place to enjoy relaxing and qui
 
 ### **Location:**
 
-Nusa Dua
+Nusa Dua Peninsula
 
-The Nusa Dua Townhouse project is located on a hill at the southeast part of the Nusa Dua peninsula providing an incredible and unobstructed view of the ocean,
+Nestled on a hill at the southeast part of the Nusa Dua peninsula, Ocean Breeze offers an amazing view of the ocean straight from the living room.
 
-This prime location is only few minutes away from the new Pandawa Golf & Country Club, incredible restaurants located in nearby 5 stars hotels, the world famous Uluwatu surf spot, and Jimbaran renowned for his fish restaurant on the beach.
+This prime location is only few minutes away from the new Pandawa Golf & Country Club, incredible restaurants located in nearby 5 stars hotels, the world famous Uluwatu surf spot, and Jimbaran renowned for its fish restaurants on the beach.
+
+The area of Nusa Dua is famous among the tourists as a getaway for those looking for peaceful and serene paradise. 
 
 ### **Why Invest with Us:**
 
@@ -89,10 +91,44 @@ We respect the highest standard of construction by ensuring the quality and inte
 
 Our Villa Management experience guarantees high occupancy rate, optimizing the revenue potential and the best return on investment
 
+### **Construction:**
+
+Ilot Property Bali’s beating heart is its specialized engineering team.
+
+Always on top of the latest innovations, materials, and  systems advances, they are able to adapt any project to the many specific aspects of tropical locations.
+
+**Mircro-Pile Fondation**
+
+For Bali and the entire Indonesian archipelago micro-piles are one of the most effective solutions in terms of costs, quality, and efficiency.
+
+**Steel beams**
+
+Steel is our choice for structural material. Steel can be assembled quickly, has  good durability, loads, integrity, and recyclable.
+
+**Walls & Partitions**
+
+Our special double-layer walls are the perfect solution for thermal and sound insulation of tropical buildings.
+
+### **Why Choose Leasehold:**
+
+W﻿hy leasehold is more beneficial?
+
+With leasehold, the land price is 3 to 4 time cheaper than freehold,  allowing to invest for less, get a better ROI and reach wider potential buyers when reselling.  Our long term leasehold gives you the opportunity to maintain a competitive leasehold even after amortization, which optimizes your resale value and exit strategy.
+
 ### **Why Invest in Bali:**
 
-With over 6 million tourists in 2019, Bali is one of the leading destinations for world travelers.
+**World Tourists’ Destination**
 
-With its glorious natural scenery, warm climate, welcoming culture, low cost of living, both domestic and international tourists from many different countries, Bali is one of the most desirable places across the world to live, visit, and invest.
+More than 25 million people come to Bali all year round, domestic and international tourists alike.  The villas occupancy rate can easily reach 80%, making Bali a perfect place to invest in villa rental.
 
-We offer a chance to make a smart financial investment into this magnificent part of the world.
+**Good Money Value**
+
+According to the Investment Coordinating Council, investment in Bali’s real estate has grown by 28.5% in the past 2 years. Bali property investments have high return on investment, aligned with the steady growth in tourism, affordable land rice, and low overhead cost.
+
+**Steady Economy and Political Environment**
+
+Bali is part of Indonesia, the 3rd largest democracy in the world and the largest economy in Southeast Asia, attracting over 158 Trillion IDR of Foreign Direct Investment. Foreign investments are facilitated by protecting and accommodating laws.
+
+**Invest in paradise**
+
+With its glorious scenery, warm climate, welcoming culture and low cost of living, Bali is one of the most desirable place to live, visit,  and invest.  We offer the a chance to make a smart investment into this magnificent part of the world.
