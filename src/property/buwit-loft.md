@@ -20,7 +20,7 @@ tags:
 ---
 ### [](https://ilotinvest.com/static/vts/villa-moa/index.htm)**Property Details**
 
-Remarkable **Turnkey**Superb Development Project
+Superb Development Project
 
 1﻿4 Lofts\
 Off plan
@@ -45,8 +45,6 @@ Building Size: 84-108 Sqm
 
 **From: 170,000 USD**
 
-
-
 **Perfect Recipe for Great Investment**
 
 Prime Design
@@ -63,15 +61,11 @@ With its modern design, great location, long leasehold and very competitive pric
 
 **PDF Brochure:**
 
-
-
 ### **Property Information**
 
 Located in the middle of the Tabanan rice fields, the Loft offers the serenity and quietness of Bali countryside
 
 The Loft has a stylish modern design where space is optimized for finest comfort. Beautifully  decorated and furnished, the Loft offers a peaceful atmosphere to relax and enjoy quiet time in Bali.
-
-
 
 ### **Why Invest with Us:**
 
