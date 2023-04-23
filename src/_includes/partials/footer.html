@@ -2,9 +2,15 @@
 <footer class="bottom-0 w-full bg-gray-100">
     <div class="bg-gray-800 text-center text-white px-8" id="about-us">
       <div class="container mx-auto pb-36 flex flex-col w-full lg:w-1/2">
-        <h3 class="text-2xl my-8 text-center">About Us</h3>
+        <h3 class="text-2xl my-8 text-center">
+            {{ about_us }}
+        </h3>
         <p class="my-2 leading-loose text-white">
-          {{ settings.about_text | markdownify | safe }}
+            {% if page.lang == 'ru' %}
+                {{ settings.about_text_ru | markdownify | safe }}
+            {% else %}
+                {{ settings.about_text_en | markdownify | safe }}
+            {% endif %}
         </p>
       </div>
     </div>
@@ -15,14 +21,18 @@
                 <strong class="text-3xl">{{ settings.site_name }}</strong>
                 <ul>
                     <li>
-                        {{ settings.slogan }}
+                        {% if page.lang == 'ru' %}
+                            {{ settings.slogan_ru }}
+                        {% else %}
+                            {{ settings.slogan_en }}
+                        {% endif %}
                     </li>
                     <li class="my-2">
-                        Office:<br>
+                        {{ office }}:<br>
                         {{ settings.address }}
                     </li>
                     <li class="my-2">
-                        Phone:<br>
+                        {{ phone }}:<br>
                         {{ settings.phone }}
                     </li>
                 </ul>
@@ -34,51 +44,51 @@
             {% if path != 'detail' %}
             <form data-netlify="true" method="POST" name="contact-form" class="p-4 w-full lg:w-1/2 rounded bg-gray-900">
                 <input type="hidden" name="subject" value="Contact Inquiry from the site" />
-                <span class="my-2 font-bold text-lg">Contact the agency</span>
+                <span class="my-2 font-bold text-lg">{{ contact_agency }}</span>
                 <div class="lg:flex">
                     <div class="w-full lg:w-1/3 mr-2">
                         <div class="my-2 flex flex-col">
-                            <label class="my-2 font-bold"><small>Salutation</small></label>
+                            <label class="my-2 font-bold"><small>{{ salutation }}</small></label>
                             <div class="flex justify-around items-center">
                                 <label>
-                                    <input type="radio" value="Mr." name="salutation"> Mr.
+                                    <input type="radio" value="{{ mr }}" name="salutation"> {{ mr }}
                                 </label>
                                 <label>
-                                    <input type="radio" value="Mrs." name="salutation"> Mrs.
+                                    <input type="radio" value="{{ mrs }}" name="salutation"> {{ mrs }}
                                 </label>
                                 <label>
-                                    <input type="radio" value="Ms." name="salutation"> Ms.
+                                    <input type="radio" value="{{ ms }}" name="salutation"> {{ ms }}
                                 </label>
                             </div>
                         </div>
                         <div class="my-2 flex flex-col">
-                            <label class="my-2 font-bold"><small>Your Name</small></label>
-                            <input class="py-1 px-2 rounded border border-blue-200 text-black" placeholder="Your name" type="text" name="name">
+                            <label class="my-2 font-bold"><small>{{ your_name }}</small></label>
+                            <input class="py-1 px-2 rounded border border-blue-200 text-black" placeholder="{{ your_name }}" type="text" name="name">
                         </div>
                         <div class="my-2 flex flex-col">
-                            <label class="my-2 font-bold"><small>Your Email</small></label>
-                            <input class="py-1 px-2 rounded border border-blue-200 text-black" placeholder="Your email" type="email" name="email">
+                            <label class="my-2 font-bold"><small>{{ your_email }}</small></label>
+                            <input class="py-1 px-2 rounded border border-blue-200 text-black" placeholder="{{ your_email }}" type="email" name="email">
                         </div>
                     </div>
                     <div class="w-full lg:w-1/2 lg:ml-2">
                         <div class="flex my-2">
                             <div class="flex flex-col w-1/2" style="margin-right:2px">
-                                <label class="font-bold"><small>Country Code</small></label>
+                                <label class="font-bold"><small>{{ country_code }}</small></label>
                                 <select class="py-1 px-2 rounded text-black border border-blue-200" id="phone-code-footer" name="phone_code"></select>
                             </div>
                             <div class="flex flex-col w-1/2" style="margin-left:2px">
-                                <label class="font-bold"><small>Phone</small></label>
-                                <input class="py-1 px-2 rounded text-black border border-blue-200" placeholder="Your phone number" type="text" name="phone">
+                                <label class="font-bold"><small>{{ phone }}</small></label>
+                                <input class="py-1 px-2 rounded text-black border border-blue-200" placeholder="{{ phone }}" type="text" name="phone">
                             </div>
                         </div>
                         <div class="my-2 flex flex-col">
-                            <label class="font-bold"><small>Message</small></label>
-                            <textarea name="message" class="py-1 px-2 rounded text-black border border-blue-200">Hi, I'm interested in this property {{ title }}</textarea>
+                            <label class="font-bold"><small>{{ message }}</small></label>
+                            <textarea name="message" class="py-1 px-2 rounded text-black border border-blue-200">{{ interested_footer }}</textarea>
                         </div>
                         <div data-netlify-recaptcha="true"></div>
                     </div>
                 </div>
-                <button type="submit" class="my-2 w-full lg:w-1/4 py-1 px-2 rounded bg-gold-500 text-white border border-gold-500 hover:text-gold-500 hover:bg-white">Submit</button>
+                <button type="submit" class="my-2 w-full lg:w-1/4 py-1 px-2 rounded bg-gold-500 text-white border border-gold-500 hover:text-gold-500 hover:bg-white">{{ submit }}</button>
             </form>
             {% endif %}
         </div>

@@ -2,13 +2,34 @@ items:
   - text: About
     url: "#about-us"
     cta: false
+    lang: en
+  - text: около
+    url: "#about-us"
+    cta: false
+    lang: ru
   - text: Contact Us
     url: "#contact-us"
     cta: false
-  - text: Our Properties
-    url: /properties
+    lang: en
+  - text: Связаться с нами
+    url: "#contact-us"
     cta: false
+    lang: ru
+  - text: Our Properties
+    url: /en/properties
+    cta: false
+    lang: en
+  - text: Наша недвижимость
+    url: /ru/properties
+    cta: false
+    lang: ru
   - text: Chat with Us
     url: https://api.whatsapp.com/send?phone=6281916101970&text=Hello, I'm
       interested by your investment property.
     cta: true
+    lang: en
+  - text: Поболтай с нами
+    url: https://api.whatsapp.com/send?phone=6281916101970&text=Hello, I'm
+      interested by your investment property.
+    cta: true
+    lang: ru

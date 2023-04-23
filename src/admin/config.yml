@@ -12,9 +12,9 @@ public_folder: "/static/img"
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
-  - label: "Properties"
-    name: "property"
-    folder: "src/property"
+  - label: "Properties En"
+    name: "property_en"
+    folder: "src/en/property"
     create: true
     editor:
       preview: false
@@ -37,7 +37,33 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["property"]
+        options: ["property_en"]
+  - label: "Properties Ru"
+    name: "property_ru"
+    folder: "src/ru/property"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Author", name: "author", widget: "string", required: false }
+      - { label: "Publish Date", name: "date", widget: "datetime", required: false }
+      - { label: "Map Iframe", name: "maps", widget: "string" }
+      - { label: "Image 1 URL", name: "image_1_url", widget: "string" }
+      - { label: "Image 2 URL", name: "image_2_url", widget: "string" }
+      - { label: "Image 3 URL", name: "image_3_url", widget: "string" }
+      - { label: "Image 4 URL", name: "image_4_url", widget: "string" }
+      - { label: "Image 5 URL", name: "image_5_url", widget: "string", required: false }
+      - { label: "Image 6 URL", name: "image_6_url", widget: "string", required: false }
+      - { label: "Image 7 URL", name: "image_7_url", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - widget: select
+        label: "tags"
+        name: "tags"
+        multiple: true
+        create: true
+        options: ["property_ru"]
   - label: "Settings"
     name: "settings"
     editor:
@@ -60,7 +86,8 @@ collections:
         file: "src/_data/settings.yaml"
         fields:
           - { label: "Site Name", name: site_name, widget: string }
-          - { label: "Slogan", name: slogan, widget: string }
+          - { label: "Slogan EN", name: slogan_en, widget: string }
+          - { label: "Slogan RU", name: slogan_ru, widget: string }
           - { label: "Office Address", name: address, widget: string }
           - { label: "Office Phone", name: phone, widget: string }
           - { label: "Author", name: author, widget: string }
@@ -68,4 +95,5 @@ collections:
           - { label: "Facebook URL", name: facebook_url, widget: string }
           - { label: "Main Website URL", name: main_website_url, widget: string }
           - { label: "Google Analytics Tracking ID", name: google_analytics_tracking_id, widget: string }
-          - { label: "About Text", name: "about_text", widget: "markdown" }
+          - { label: "About Text EN", name: "about_text_en", widget: "markdown" }
+          - { label: "About Text RU", name: "about_text_ru", widget: "markdown" }

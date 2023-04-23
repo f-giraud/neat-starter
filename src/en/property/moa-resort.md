@@ -15,8 +15,9 @@ image_4_url: https://ucarecdn.com/b918c67d-0892-45ae-9c86-96d777754fff/
 image_5_url: https://ucarecdn.com/27989363-739c-4b5d-bc16-2cf9923681e6/
 image_6_url: https://ucarecdn.com/fecd5c8b-3eb9-4af3-9121-64992f39f866/
 image_7_url: https://ucarecdn.com/c8d0a245-bfdf-4eba-acb0-1dfa1861eada/
+language: en
 tags:
-  - property
+  - property_en
 ---
 ### [](https://ilotinvest.com/static/vts/villa-moa/index.htm)**Property Details**
 

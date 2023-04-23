@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
@@ -7,6 +7,7 @@
     <title>
       {{title}}
     </title>
+    <link rel="canonical" href="/{{ page.lang }}" />
     {% if description %}
       <meta name="description" content="{{description}}"/>
     {% else %}
@@ -80,13 +81,23 @@
         </h1>
 
         <p>
-          {{ settings.slogan }}
+          {% if page.lang == 'ru' %}
+            {{ settings.slogan_ru }}
+          {% else %}
+            {{ settings.slogan_en }}
+          {% endif %}
         </p>
       </div>
     </div>
 
     <div class="container mx-auto flex flex-col justify-center items-center bg-white rounded-lg px-8 z-20 pb-36">
-      <h3 class="text-2xl my-8">Perfect Investment Turnkey Development Projects</h3>
+      <h3 class="text-2xl my-8">
+        {% if page.lang == 'ru' %}
+          {{ settings.home_tagline_ru }}
+        {% else %}
+          {{ settings.home_tagline_en }}
+        {% endif %}
+      </h3>
 
       {{ content | safe }}
     </div>

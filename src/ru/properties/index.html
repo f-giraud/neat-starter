@@ -4,7 +4,7 @@ path: properties
 ---
 
 <section class="mt-15">
-    {% set postslist = collections.property %}
+    {% set postslist = collections.property_ru %}
 
     {% for post in postslist | reverse %}
         <article class="my-8">
@@ -28,7 +28,7 @@ path: properties
 
             <p>
                 <a href="{{ post.url | url }}" class="text-gold-500 hover:text-gold-700 font-bold text-lg">
-                    See Detail →
+                    {{ see_detail }} →
                 </a>
             </p>
 

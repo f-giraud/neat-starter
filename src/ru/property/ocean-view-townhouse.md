@@ -15,8 +15,9 @@ image_4_url: https://ucarecdn.com/fc1b6c20-f233-4530-8f0d-bd365c507296/
 image_5_url: https://ucarecdn.com/5f10ab3e-84ac-47de-a896-a56910fed54e/
 image_6_url: https://ucarecdn.com/6cb4b453-5981-4f1f-b4c0-4988c54d20df/
 image_7_url: https://ucarecdn.com/9417099a-883d-44d2-ab29-8cbbe4070e1f/
+language: ru
 tags:
-  - property
+  - property_ru
 ---
 ### **Property Details**
 
