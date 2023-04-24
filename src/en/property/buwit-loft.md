@@ -54,7 +54,7 @@ Minimalist design whereÂ  space and comfort are optimized. Tastefully decoratedÂ
 
 Prime Location
 
-Located in the middle of the Tabanan rice fields, only ten minutes away from Tanah Lot, the Nyanyi beach and Pererenan.  Perfect quiet location few minutes away from busy life.
+Located in the middle of the Tabanan rice fields, **15 min from hip and trendy Canggu, only 10 minutes away from Tanah Lot, the Nyanyi beach and Pererenan.** Quiet location, minutes away from busy life.
 
 Prime Investment
 
