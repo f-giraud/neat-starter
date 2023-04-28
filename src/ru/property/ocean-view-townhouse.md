@@ -1,8 +1,8 @@
 ---
 title: Ocean View Townhouse
-description: Incredible ocean view townhouse Turnkey Development Project in Nusa
-  Dua, with only 12 units, this investment opportunity with 15% ROI and 37 years
-  leasehold can’t be missed.
+description: Таунхаус с видом на океан Невероятный проект таунхауса с видом на
+  океан под ключ в Нуса-Дуа, всего 12 квартир, эту инвестиционную возможность с
+  15% ROI и 37-летней арендой нельзя упустить.
 date: 2023-01-09T03:26:12.810Z
 maps: <iframe
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3942.5005877885606!2d115.19923506585386!3d-8.83289734320596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x12ea65501ce115ff!2zOMKwNDknNTcuNCJTIDExNcKwMTInMDYuNCJF!5e0!3m2!1sen!2sid!4v1673234611014!5m2!1sen!2sid"
