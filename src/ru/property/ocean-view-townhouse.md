@@ -8,7 +8,7 @@ maps: <iframe
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3942.5005877885606!2d115.19923506585386!3d-8.83289734320596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x12ea65501ce115ff!2zOMKwNDknNTcuNCJTIDExNcKwMTInMDYuNCJF!5e0!3m2!1sen!2sid!4v1673234611014!5m2!1sen!2sid"
   width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
   referrerpolicy="no-referrer-when-downgrade"></iframe>
-image_1_url: https://ucarecdn.com/8d811ab9-d255-4698-9b83-e23a4e5630d3/
+image_1_url: https://ucarecdn.com/1502fedf-6bbd-4694-bf44-3651fdf1b9e6/
 image_2_url: https://ucarecdn.com/2bb41501-2d9f-456b-b2c3-f30bccf873e1/
 image_3_url: https://ucarecdn.com/fb2a3ab1-9718-4cc3-bc7d-8309da977ee5/
 image_4_url: https://ucarecdn.com/fc1b6c20-f233-4530-8f0d-bd365c507296/
