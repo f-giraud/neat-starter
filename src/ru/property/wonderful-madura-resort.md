@@ -8,7 +8,7 @@ maps: <iframe
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d986.0672388391336!2d115.14908164060365!3d-8.665951903717326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd247f56f5c2337%3A0xcbc7d04e076dcf85!2sVilla%20Madura!5e0!3m2!1sen!2sid!4v1672989331211!5m2!1sen!2sid"
   width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
   referrerpolicy="no-referrer-when-downgrade"></iframe>
-image_1_url: https://ucarecdn.com/5e02f574-dbd2-4f85-9204-8bb84e0b1baf/
+image_1_url: https://ucarecdn.com/9d173385-8ae5-4e65-b666-4a5a624edd50/
 image_2_url: https://ucarecdn.com/3f9f8aa8-120f-4c6f-af16-a7300fd8eb2b/
 image_3_url: https://ucarecdn.com/9054526d-dc79-41aa-9fd7-aa26e6eca2e6/
 image_4_url: https://ucarecdn.com/4b75012d-e1ff-4c73-b8bb-b15ea2562312/
