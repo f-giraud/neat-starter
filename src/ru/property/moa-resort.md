@@ -1,8 +1,8 @@
 ---
-title: Stunning MOA Resort
-description: Remarkable Turnkey Development Project in the heart of Canggu,
-  Berawa.  MOA is composed of 20 villas with 4 or 6 bedrooms offering a unique
-  investment opportunity with 20% ROI
+title: Потрясающий резорт МОА
+description: Великолепный девелоперский проект «под ключ» в самом сердце Чангу,
+  Берава. MOA - это проект из 20 вилл с 4 или 6 спальнями, предлагающих
+  уникальную инвестиционную возможность с 20% ROI.
 date: 2022-12-20T02:33:52.740Z
 maps: <iframe
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3944.260056763004!2d115.14503081795613!3d-8.666799976770477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc5b75a0e0f58a547!2zOMKwNDAnMDAuNSJTIDExNcKwMDgnNTcuMyJF!5e0!3m2!1sen!2sid!4v1672912192226!5m2!1sen!2sid"
