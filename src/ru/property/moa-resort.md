@@ -19,124 +19,134 @@ language: ru
 tags:
   - property_ru
 ---
-### [](https://ilotinvest.com/static/vts/villa-moa/index.htm)**Property Details**
+### О проекте:
 
-Remarkable **Turnkey** Development Project
+Эксклюзивный девелоперский проект **под ключ**
 
-20 VILLAS on 7,000 Sqm land\
-Off plan
+20 вилл на участке площадью 7000 кв.м.
 
-Exceptional **33 years** Leasehold
+На этапе Off plan
 
-Land Size: 300 Sqm\
-Building Size: 270 Sqm\
-Pool Size: 11 x 3.5 m\
-Living Area: 12 meters\
-Fully furnished
+Форма собственности земельного участка  — Leasehold (Лизхолд)
 
-4 Bedrooms: 595,000 USD\
-6 Bedrooms: 640,000 USD
+Долгосрочная аренда до **33 лет**
 
-**Perfect Recipe for Great Investment**
+Размер земли: 300 кв.м.
 
-**ROI: Over 20%**\
-**Amortized in 5 to 6 years**
+Размер здания: 270 кв.м.
 
-Massive rental potential ($800 – $1200 / night, 80% occupancy rate)
+Размер бассейна: 11 х 3,5 м
 
-Prime Design
+4 спальни: 595 000 долларов США
 
-The MOA concept idea is to combine steel structure and premium wood to create contemporary lines and beautiful volumes, integrating architecture and landscape the best way possible to provide a unique tropical experience.
+6 спален: 640 000 долларов США
 
-Prime Location
+**Идеальное решение для крупных инвестиций**
 
-Located in the prime area of Canggu, Berawa, the compound is surrounded by stunning Balinese rice fields, minutes away from the beach, top bar & restaurants, sport facilities and international schools.
+**ROI: более 20%**
 
-Prime Investment
+**Прогнозный период окупаемости 5-6 лет**
 
-With its prime location and design, each villa has a rental potential between $800 to $1,200 per night, generating over **$200,000** revenue per year.  The investment can easily be amortized in **5 to 6 years**.  Based on its location, quality, ROI potential and 33 years leasehold it can be resold in no time.
+Огромный арендный потенциал (800–1200 долларов США за ночь, 80% заполняемость)
 
-**T﻿ake a virtual tour:**
+Премиальный дизайн
+
+Идея концепции MOA состоит в том, чтобы объединить стальную конструкцию и высококачественную древесину для создания современных линий и красивых объемов, наилучшим образом интегрируя архитектуру и ландшафт, чтобы собрать уникальные тропические особенности.
+
+Лучшее местоположение
+
+Комплекс расположен в лучшем районе Чангу, Берава, в окружении потрясающих балийских рисовых полей, в нескольких минутах ходьбы от пляжа, лучших баров и ресторанов, спортивных сооружений и международных школ.
+
+Лучшая инвестиция
+
+Благодаря удобному расположению и дизайну каждая вилла имеет потенциал сдачи в аренду от 800 до 1200 долларов за ночь, принося доход более **200 000 долларов** в год. Инвестиции могут легко окупиться за **5-6 лет**. Благодаря своему расположению, качеству, потенциальной рентабельности инвестиций и 33-летнему сроку аренды, его можно перепродать в кратчайшие сроки.
+
+**Совершите виртуальный тур:**
 
 [Virtual tour](https://ilotinvest.com/static/vts/villa-moa/index.htm){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100 .virtual-tour-btn}
 
-**PDF Brochure:**
+**Брошюра в формате PDF:**
 
-[Download PDF](https://ilotinvest.com/static/pdfs/villa-moa/brochure-202304.pdf){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100 .pdf-btn }
+[Download PDF](https://ilotinvest.com/static/pdfs/villa-moa/brochure-202304.pdf){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100 .pdf-btn }[](https://ilotinvest.com/static/vts/villa-moa/index.htm)
 
-### **Property Information**
+### О проекте:
 
-MOA is a tropical industrial style villa compound.
+MOA представляет собой комплекс вилл в тропическом стиле.
 
-Combining steel structure and premium wood to create contemporary lines and beautiful volumes.\
-The 20 villas are secluded in a private area with a 24H/7 days entrance security service.\
-The MOA concept integrates architecture and landscape the best way possible to provide a unique tropical experience to guests while providing the best amenities found in the premium location of Canggu-Berawa.
+Сочетание стальной конструкции и высококачественной древесины для создания современных линий и красивых объемов.
 
-All the rooms are perfectly insulated with double layer walls giving optimum thermal and acoustic comfort.  The large window facade offers natural light to each rooms.
+20 вилл на частной территории с круглосуточной службой безопасности на входе.
 
-The construction techniques are cost efficient in terms of energy consumption and reduces waste.  It also creates a healthy environment for guests and the interior design follows this philosophy.  The main structure of the villa is made from steel beams allowing to build rooms without any column for an extendable length.\
-The main plateau on the first floor offer a large living space of 12 meters, all open to the outside area.  The material used are natural wood and mineral stones.
+Концепция MOA наилучшим образом объединяет архитектуру и ландшафт, чтобы подарить гостям уникальный тропический стиль жизни, а также предоставить лучшие удобства, которые можно найти в превосходном месте Canggu-Berawa.
 
-### **Location:**
+Все помещения прекрасно изолированы двухслойными стенами, обеспечивающими оптимальный тепловой и акустический комфорт. Фасад с большими окнами обеспечивает естественное освещение каждой комнаты.
 
-Canggu, Berawa & Umalas
+Технологии строительства являются энергоэффективными с точки зрения потребления ресурсов и сокращения отходов. Мы создаем неповторимую атмосферу для гостей, дизайн интерьера продолжает эту философию. Основная конструкция виллы сделана из стальных балок, что позволяет строить комнаты без каких-либо колонн для увеличения длины.
 
-Nestled between Umalas and Canggu MOA projects boasts an envious and strategic location. Two of the trendiest and fastest-growing areas of Bali are on your doorstep, yet the immediate surroundings are serene and tranquil with rice field views.
+Основное плато на первом этаже предлагает большое жилое пространство площадью 12 метров, открытое на улицу. В качестве материала используется натуральное дерево и минеральные камни.
 
-Close to the beach, top bar & restaurants, sport facilities and international schools.
+### Расположение:
 
-The areas of Canggu, Berawa, and Umalas are in high demand and fast growing in popularity and investment. Expecting to continue to grow and increase in value.
+Чангу, Берава и Умалас
 
-### **Why Invest with Us:**
+Расположенный между проектами Umalas и Canggu MOA, он может похвастаться завидным и стратегическим расположением. Два самых модных и быстрорастущих района Бали находятся у вашего порога, но в непосредственной близости от них царит безмятежность и спокойствие, а из окон открывается вид на рисовые поля.
 
-**Quality First!**
+Рядом с пляжем, лучшими барами и ресторанами, спортивными сооружениями и международными школами.
 
-We are the no 1 developer in Bali promoting a conscious way to build & invest.
+Районы Чангу, Берава и Умалас пользуются большим спросом, их популярность и инвестиции быстро растут. Ожидается дальнейший рост и увеличение стоимости.
 
-We invest in areas up to our standards with strong upside potential to deliver the highest ROI and value gain.
+### Почему стоит инвестировать с нами:
 
-We respect the highest standard of construction by ensuring the quality and integrity in all our projects. Always on top of the latest innovations, materials, and systems advances, able to adapt any project to the many specific aspects of tropical locations. Steel is our primary choice for structural material.
+**Качество превыше всего!**
 
-Our Villa Management experience guarantees high occupancy rate, optimizing the revenue potential and the best return on investment.
+Мы являемся застройщиком №1 на острове Бали, надежный Европейский девелопер и партнер, продвигающий осознанный путь строительства и инвестирования.
 
-### **Construction:**
+Мы инвестируем в проекты, соответствующие нашим стандартам, с высоким потенциалом роста, чтобы обеспечить максимальную рентабельность инвестиций и прирост стоимости.
 
-Ilot Property Bali’s beating heart is its specialized engineering team.
+Мы выдерживаем самые высокие стандарты строительства, гарантируя качество и целостность во всех наших проектах.
 
-Always on top of the latest innovations, materials, and  systems advances, they are able to adapt any project to the many specific aspects of tropical locations.
+Всегда в курсе последних инноваций, материалов и системных достижений, способных адаптировать любой проект ко многим специфическим аспектам тропических широт. Сталь является нашим основным конструктивным материалом.
 
-**Mircro-Pile Fondation**
+Наш опыт управления виллами гарантирует высокую заполняемость, оптимизацию потенциального дохода и максимальную отдачу от инвестиций.
 
-For Bali and the entire Indonesian archipelago micro-piles are one of the most effective solutions in terms of costs, quality, and efficiency.
+### Строительство:
 
-**Steel beams**
+Сердце Ilot Property Bali — это высококвалифицированная команда инженеров.
 
-Steel is our choice for structural material. Steel can be assembled quickly, has  good durability, loads, integrity, and recyclable.
+Наша команда всегда в курсе последних инновационных технологий, материалов и достижений в области строительства. Накопленные знания и опыт помогают адаптировать любой проект ко многим специфическим аспектам тропических мест.
 
-**Walls & Partitions**
+**Фундамент «Микро-Пайп»**
 
-Our special double-layer walls are the perfect solution for thermal and sound insulation of tropical buildings.
+Для Бали и всего Индонезийского архипелага микросваи — одно из самых эффективных решений с точки зрения затрат, качества и эффективности. Наши сваи уходят в землю на глубину до 3.5 м.
 
-### **Why Choose Leasehold:**
+**Стальные балки**
 
-W﻿hy leasehold is more beneficial?
+Сталь – наш выбор конструкционного материала. Сталь можно быстро собрать, она обладает хорошей прочностью, устойчивостью к нагрузкам, целостностью и пригодна для вторичной переработки.
 
-With leasehold, the land price is 3 to 4 time cheaper than freehold,  allowing to invest for less, get a better ROI and reach wider potential buyers when reselling.  Our long term leasehold gives you the opportunity to maintain a competitive leasehold even after amortization, which optimizes your resale value and exit strategy.
+**Стены и перегородки**
 
-### **Why Invest in Bali:**
+Наши специальные двухслойные стены являются идеальным решением для тепло- и звукоизоляции тропических зданий.
 
-**World Tourists’ Destination**
+### Почему выбирают лизхолд:
 
-More than 25 million people come to Bali all year round, domestic and international tourists alike.  The villas occupancy rate can easily reach 80%, making Bali a perfect place to invest in villa rental.
+Почему аренда выгоднее?
 
-**Good Money Value**
+При аренде цена земли в 3-4 раза дешевле, чем в собственность, что позволяет инвестировать меньше, получать более высокую рентабельность инвестиций и при перепродаже охватывать более широких потенциальных покупателей. Наша долгосрочная аренда дает вам возможность поддерживать конкурентоспособную аренду даже после амортизации, что оптимизирует вашу стоимость при перепродаже и стратегию выхода.
 
-According to the Investment Coordinating Council, investment in Bali’s real estate has grown by 28.5% in the past 2 years. Bali property investments have high return on investment, aligned with the steady growth in tourism, affordable land rice, and low overhead cost.
+### Зачем инвестировать в Бали:
 
-**Steady Economy and Political Environment**
+**Мировое туристическое направление**
 
-Bali is part of Indonesia, the 3rd largest democracy in the world and the largest economy in Southeast Asia, attracting over 158 Trillion IDR of Foreign Direct Investment. Foreign investments are facilitated by protecting and accommodating laws.
+Более 25 миллионов человек приезжают на Бали круглый год, как местные, так и иностранные туристы. Уровень заполняемости вилл может легко достигать 80%, что делает Бали идеальным местом для инвестиций в аренду вилл.
 
-**Invest in paradise**
+**Хорошее соотношение цены и качества**
 
-With its glorious scenery, warm climate, welcoming culture and low cost of living, Bali is one of the most desirable place to live, visit,  and invest.  We offer the a chance to make a smart investment into this magnificent part of the world.
+По данным Координационного совета по инвестициям, инвестиции в недвижимость Бали выросли на 28,5% за последние 2 года. Инвестиции в недвижимость на Бали имеют высокую отдачу от инвестиций, что связано с устойчивым ростом туризма, доступным земельным рисом и низкими накладными расходами.
+
+**Стабильная экономика и политическая среда**
+
+Бали является частью Индонезии, 3-й по величине демократии в мире и крупнейшей экономики в Юго-Восточной Азии, привлекающей более 158 триллионов индонезийских рупий прямых иностранных инвестиций. Иностранным инвестициям способствуют защищающие и смягчающие законы.
+
+**Инвестируйте в рай**
+
+С его великолепными пейзажами, теплым климатом, гостеприимной культурой и низкой стоимостью жизни, Бали является одним из самых желанных мест для жизни, посещения и инвестиций. Мы предлагаем шанс сделать разумную, продуманную инвестицию в эту прекрасную часть мира.
