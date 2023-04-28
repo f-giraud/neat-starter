@@ -1,8 +1,7 @@
 ---
 title: Buwit Loft
-description: Superb Development Project in Tabanan-Buwit, few minutes from Tanah
-  Lot, the Nyanyi beach and Pererenan.  The project is composed of 14 Lofts 1 or
-  2 bedrooms.
+description: Превосходный проект в Табанан-Бууит, в нескольких минутах от Храма
+  Танах Лот, пляжа Ньяни и Переренан. Проект из 14 лофтов с 1 или 2 спальнями.
 date: 2023-04-04T02:53:11.909Z
 maps: <iframe
   src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3944.9664223616037!2d115.12263925013983!3d-8.599222193789354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMzUnNTcuMiJTIDExNcKwMDcnMjkuNCJF!5e0!3m2!1sen!2sid!4v1680577376617!5m2!1sen!2sid"
