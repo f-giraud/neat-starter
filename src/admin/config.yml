@@ -92,6 +92,7 @@ collections:
           - { label: "Office Phone", name: phone, widget: string }
           - { label: "Author", name: author, widget: string }
           - { label: "Instagram URL", name: instagram_url, widget: string }
+          - { label: "Instagram URL RU", name: instagram_url_ru, widget: string }
           - { label: "Facebook URL", name: facebook_url, widget: string }
           - { label: "Main Website URL", name: main_website_url, widget: string }
           - { label: "Google Analytics Tracking ID", name: google_analytics_tracking_id, widget: string }

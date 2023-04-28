@@ -63,11 +63,11 @@ tags:
 
 **Совершите виртуальный тур:**
 
-[Virtual tour](https://ilotinvest.com/static/vts/villa-moa/index.htm){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100 .virtual-tour-btn}
+[Виртуальный тур](https://ilotinvest.com/static/vts/villa-moa/index.htm){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100 .virtual-tour-btn}
 
 **Брошюра в формате PDF:**
 
-[Download PDF](https://ilotinvest.com/static/pdfs/villa-moa/brochure-202304.pdf){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100 .pdf-btn }[](https://ilotinvest.com/static/vts/villa-moa/index.htm)
+[Скачать PDF](https://ilotinvest.com/static/pdfs/villa-moa/brochure-202304.pdf){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100 .pdf-btn }[](https://ilotinvest.com/static/vts/villa-moa/index.htm)
 
 ### О проекте:
 
