@@ -90,6 +90,7 @@ collections:
           - { label: "Slogan RU", name: slogan_ru, widget: string }
           - { label: "Office Address", name: address, widget: string }
           - { label: "Office Phone", name: phone, widget: string }
+          - { label: "Office Phone RU", name: phone_ru, widget: string }
           - { label: "Author", name: author, widget: string }
           - { label: "Instagram URL", name: instagram_url, widget: string }
           - { label: "Instagram URL RU", name: instagram_url_ru, widget: string }

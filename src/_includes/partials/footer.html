@@ -33,7 +33,11 @@
                     </li>
                     <li class="my-2">
                         {{ phone }}:<br>
+                        {% if page.lang == 'ru' %}
+                        {{ settings.phone_ru }}
+                        {% else %}
                         {{ settings.phone }}
+                        {% endif %}
                     </li>
                 </ul>
                 {% if page.lang == 'en' %}
