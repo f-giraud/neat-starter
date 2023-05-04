@@ -34,8 +34,8 @@ Pool Size: 11 x 3.5 m\
 Living Area: 12 meters\
 Fully furnished
 
-4 Bedrooms: 595,000 USD\
-6 Bedrooms: 640,000 USD
+4 Bedrooms: 640,000 USD\
+6 Bedrooms: 698,000 USD
 
 **Perfect Recipe for Great Investment**
 
