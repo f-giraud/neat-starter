@@ -67,7 +67,7 @@ Ocean Breeze расположен всего в нескольких минут�
 
 **Брошюра в формате PDF:**
 
-[Скачать PDF](https://ilotinvest.com/static/pdfs/villa-ocean/brochure-202304.pdf){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100 .pdf-btn}
+[Скачать PDF](https://ilotinvest.com/static/pdfs/villa-ocean/brochure-20230406-ru.pdf){target="_blank" rel="noopener" .my-2 .py-2 .px-8 .rounded .bg-gold-500 .text-white .border .border-gold-500 .hover:text-gold-500 .hover:bg-gold-100 .pdf-btn}
 
 ### О проекте:
 
