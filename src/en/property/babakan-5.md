@@ -7,7 +7,7 @@ maps: <iframe
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3944.7196381663343!2d115.1514476!3d-8.6228917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd23959743904f7%3A0x1e2953e4beb60ea3!2sland%2030%20are%20padang%20tawang!5e0!3m2!1sen!2sid!4v1687404285168!5m2!1sen!2sid"
   width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
   referrerpolicy="no-referrer-when-downgrade"></iframe>
-image_1_url: https://ucarecdn.com/52aff6b1-a85b-487a-92c8-8aebe9642d57/
+image_1_url: https://ucarecdn.com/825afad7-41a8-48f9-8568-8fd7991b79f3/
 image_2_url: https://ucarecdn.com/88c8326b-2e05-4299-be5b-f30ec3d8a375/
 image_3_url: https://ucarecdn.com/967b306a-0a59-4b88-a8a4-28eeaef020b7/
 image_4_url: https://ucarecdn.com/ca2073b0-b570-45f7-8058-d976c6662da9/
