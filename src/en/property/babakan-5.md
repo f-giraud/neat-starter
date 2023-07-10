@@ -30,7 +30,7 @@ O﻿ff Plan
 Great 3﻿0 years Leasehold
 
 Land Size: 215 Sqm\
-Building Size: 158 Sqm\
+Building Size: 164 Sqm\
 Pool Size: 3 x 9 m
 
 B﻿asic:  USD 368,000
@@ -55,8 +55,6 @@ P﻿rime Investment
 Babakan Villa is the perfect investment for the daily rentals with its prime design, prime location, and its capacity to host many guests at once. The investment can easily be amortized in 5 years and resold at a higher price.
 
 **PDF Brochure:**
-
-
 
 ### **Property Information**
 
