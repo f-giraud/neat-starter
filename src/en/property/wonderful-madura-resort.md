@@ -1,8 +1,8 @@
 ---
 title: Wonderful Madura Resort
-description: The 4 bedrooms Madura Turnkey Development Project in the heart of
-  Canggu, Berawa is unique investment opportunity with 18% ROI.  Hurry, only 3
-  units left!
+description: SOLD OUT The 4 bedrooms Madura Turnkey Development Project in the
+  heart of Canggu, Berawa is unique investment opportunity with 18% ROI.  Hurry,
+  only 3 units left!
 date: 2023-01-06T07:06:15.243Z
 maps: <iframe
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d986.0672388391336!2d115.14908164060365!3d-8.665951903717326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd247f56f5c2337%3A0xcbc7d04e076dcf85!2sVilla%20Madura!5e0!3m2!1sen!2sid!4v1672989331211!5m2!1sen!2sid"
@@ -19,6 +19,8 @@ language: en
 tags:
   - property_en
 ---
+# S﻿OLD OUT
+
 ### **Property Details**
 
 Amazing **Turnkey** Development Project
